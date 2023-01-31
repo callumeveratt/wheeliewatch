@@ -30,7 +30,7 @@ token = ''
 
 # Don't remove ugit.py from the ignore_files unless you know what you are doing :D
 # Put the files you don't want deleted or updated here use '/filename.ext'
-ignore_files = ['/ugit.py','/ugit_log.py','/log.txt','/secrets.py','/lib']
+ignore_files = ['/ugit.py','/ugit_log.py','/log.txt','/secrets.py','/lib/micropython_urequests-0.6.dist-info/METADATA','/lib/micropython_urequests-0.6.dist-info/RECORD','/lib/urequests.py']
 ignore = ignore_files
 ### -----------END OF USER VARIABLES ----------####
 
