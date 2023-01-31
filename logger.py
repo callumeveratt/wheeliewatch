@@ -1,3 +1,5 @@
+print("hello")
+
 import os
 from apitime import *
 
