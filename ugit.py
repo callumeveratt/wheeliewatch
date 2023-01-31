@@ -19,8 +19,8 @@ global internal_tree
 #### -------------User Variables----------------####
 #### 
 # Default Network to connect using wificonnect()
-ssid = "CE"
-password = "DeanoIsAClown"
+ssid = ""
+password = ""
 
 # CHANGE TO YOUR REPOSITORY INFO
 # Repository must be public if no personal access token is supplied
